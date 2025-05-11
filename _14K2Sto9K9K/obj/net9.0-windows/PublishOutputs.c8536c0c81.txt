@@ -1,0 +1,8 @@
+D:\My_Csharp_project\dpbms299k\publish\WpfApp2.exe
+D:\My_Csharp_project\dpbms299k\publish\WpfApp2.dll
+D:\My_Csharp_project\dpbms299k\publish\WpfApp2.deps.json
+D:\My_Csharp_project\dpbms299k\publish\WpfApp2.runtimeconfig.json
+D:\My_Csharp_project\dpbms299k\publish\WpfApp2.pdb
+D:\My_Csharp_project\dpbms299k\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\My_Csharp_project\dpbms299k\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My_Csharp_project\dpbms299k\publish\OsuParsers.dll

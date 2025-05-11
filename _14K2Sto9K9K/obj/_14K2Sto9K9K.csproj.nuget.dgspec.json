@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My_Csharp_project\\DP14K2STO9K9K\\14K2Sto9K9K\\_14K2Sto9K9K\\_14K2Sto9K9K.csproj": {}
+  },
+  "projects": {
+    "D:\\My_Csharp_project\\DP14K2STO9K9K\\14K2Sto9K9K\\_14K2Sto9K9K\\_14K2Sto9K9K.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My_Csharp_project\\DP14K2STO9K9K\\14K2Sto9K9K\\_14K2Sto9K9K\\_14K2Sto9K9K.csproj",
+        "projectName": "_14K2Sto9K9K",
+        "projectPath": "D:\\My_Csharp_project\\DP14K2STO9K9K\\14K2Sto9K9K\\_14K2Sto9K9K\\_14K2Sto9K9K.csproj",
+        "packagesPath": "C:\\Users\\Krrcream\\.nuget\\packages\\",
+        "outputPath": "D:\\My_Csharp_project\\DP14K2STO9K9K\\14K2Sto9K9K\\_14K2Sto9K9K\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Krrcream\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "OsuParsers": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Krrcream\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
