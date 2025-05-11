@@ -22,9 +22,9 @@ namespace _14k2sTO9K9K.Services
         {
             // 并行处理 HitObjects（后台线程）
             await Task.Run(() => ProcessHitObjects(beatmap, keys));
-            
+            savetoorgdir(beatmap, filePath);
         }
-        savetoorgdir(beatmap, filePath);
+        
     }   
     
     private void savetoorgdir(Beatmap beatmap, string filePath)
